@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paha typpidioksidipäästöt EU:ssa ovat?",
+  "subtitle": "EU:n keskimääräinen typpidioksidipäästöjen määrä on jopa 14,95 µg/kuutiometri ja se laski 1,7 % vuosina 2023–2024. Tämä luku on edelleen WHO:n suosituksen 10 µg/kuutiometri yläpuolella.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Keskiarvo on laskettu maakohtaisesti vaihtelevan määrän ilmanmittausasemien toimittamien saatavilla olevien vuosittaisten keskiarvotietojen perusteella.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopan ympäristökeskus (2024)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "µg/m3",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
