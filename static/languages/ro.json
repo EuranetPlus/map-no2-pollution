@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de gravă este poluarea cu gaz NO2 în UE?",
+  "subtitle": "Poluarea medie cu NO2 în UE este de până la 14,95 µg/metru cub și a scăzut între 2023 și 2024 cu 1,7%. Această cifră este încă peste recomandările OMS de 10 µg/metru cub.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Valoarea medie a fost calculată pe baza datelor medii anuale disponibile, furnizate de un număr variabil de stații de măsurare a aerului, specifice fiecărei țări.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Agenția Europeană de Mediu (2024)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "µg/m³",
   "tooltipExtraInfoLabel": "Click aici"
 }
